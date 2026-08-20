@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "resurrectVersion": "1.0.0",
+  "createdAt": "2026-08-20T01:27:02Z",
+  "machine": {
+    "hostname": "omarchy",
+    "user": "bts",
+    "omarchy": "4.0.0.alpha",
+    "kernel": "7.1.8-arch1-3"
+  },
+  "categories": [
+    "packages",
+    "omarchy",
+    "webapps",
+    "plugins"
+  ],
+  "counts": {
+    "packages": 166,
+    "config": 0,
+    "themes": 0,
+    "webapps": 9,
+    "plugins": 2,
+    "secrets": 0,
+    "uncaptured": 0,
+    "services": 0
+  }
+}
